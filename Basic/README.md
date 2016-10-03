@@ -42,3 +42,11 @@ func main() {
 </body>
 </html>
 ```
+
+### Browser snapshots
+
+![](_misc/serving%20static%20file.PNG)
+
+![](_misc/serving%20dynamic%20content.PNG)
+
+![](_misc/serving%20unsupported%20route.PNG)
